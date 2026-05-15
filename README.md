@@ -1,1 +1,6 @@
-# -linal2_perceptron-
+# Lab2 
+Можно работать с проектом через MS VS Code, необходимо установить расширения Python и Jupyter, а также установить нелобходимые библиотеки 
+
+```bash
+   pip install numpy matplotlib scikit-learn pandas seaborn
+   ```
